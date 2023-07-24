@@ -2,7 +2,7 @@
 - 👀 I’m interested in Pokemon, Running and a good cup of tea.
 - 🌱 I’m currently learning all sorts.
 - 💞️ I’m looking to collaborate on nothing in particular.
-- 📫 How to reach me ....
+- 📫 How to reach me - check out my email below.
 
 <!---
 RichieBzzzt/RichieBzzzt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
